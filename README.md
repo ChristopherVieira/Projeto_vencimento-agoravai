@@ -1,4 +1,4 @@
-# Projeto_vencimento-agoravai kjfhkffghkdhg
+# Projeto_vencimento-agoravai
 '''
 Imports das bibliotecas
 '''
