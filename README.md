@@ -83,3 +83,7 @@ ws.security.
 arquivo_excel.save('Planilha.xlsm')
 c = 0
 
+jgjgjer
+
+
+
